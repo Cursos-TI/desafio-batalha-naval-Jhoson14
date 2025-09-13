@@ -154,7 +154,7 @@ int main() {
         printf("\n"); //se não adicionar impressão ficará em apenas uma linha
     }
 
-    // Habilidade em Cruz //Audentes Fortuna Iuvate
+    // Especial Cruz //Audentes Fortuna Iuvate
     printf("\nCruz:\n");
     int cruz[3][5] = {
         {0,0,1,0,0},
